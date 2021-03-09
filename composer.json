@@ -19,7 +19,7 @@
 	},
 	"require" : {
 		"php": ">=7.2",
-	    "hyperf/guzzle": "~2.1.0"
+	    "hyperf/guzzle": "~2.1.0",
 		"guzzlehttp/psr7": "^1.4.1",
 		"guzzlehttp/promises": "~1.0",
 		"google/protobuf": "^3.5"
