@@ -1,5 +1,5 @@
 {
-	"name" : "aliyun/aliyun-tablestore-sdk-php",
+	"name" : "fandinghua/aliyun-tablestore-sdk-php",
 	"homepage" : "http://www.aliyun.com/product/ots",
 	"description" : "Aliyun Tablestore SDK for PHP",
 	"license": "MIT",
