@@ -1,7 +1,7 @@
 {
 	"name" : "fandinghua/aliyun-tablestore-sdk-php",
 	"homepage" : "http://www.aliyun.com/product/ots",
-	"description" : "Aliyun Tablestore SDK for PHP",
+	"description" : "Aliyun Tablestore SDK for PHP Hyperf",
 	"license": "MIT",
 	"authors" : [{
 			"name" : "Aliyun Tablestore Team",
@@ -19,7 +19,7 @@
 	},
 	"require" : {
 		"php": ">=7.2",
-		"guzzlehttp/guzzle": "^6.3|^7.0",
+	    "hyperf/guzzle": "~2.1.0",
 		"guzzlehttp/psr7": "^1.4.1",
 		"guzzlehttp/promises": "~1.0",
 		"google/protobuf": "^3.5"
